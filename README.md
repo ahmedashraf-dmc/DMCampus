@@ -10,8 +10,7 @@ The project was originally started as my **CS50x Final Project**, but from the b
 
 # Video Demo
 
-**Video:**  
-https://youtu.be/XXXXXXXXXXX
+https://www.youtube.com/watch?v=BSMbhyPloEQ
 
 ---
 
@@ -502,7 +501,6 @@ ChatGPT was primarily used to discuss design decisions, review code, identify bu
 Ahmed Ashraf
 
 GitHub:
-
 https://github.com/ahmedashraf-dmc
 
 ---
